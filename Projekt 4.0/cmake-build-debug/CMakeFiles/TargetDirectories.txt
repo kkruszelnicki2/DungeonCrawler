@@ -1,0 +1,3 @@
+/Users/mcwilan/Library/Mobile Documents/com~apple~CloudDocs/pro3/Projekt cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mcwilan/Library/Mobile Documents/com~apple~CloudDocs/pro3/Projekt cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mcwilan/Library/Mobile Documents/com~apple~CloudDocs/pro3/Projekt cpp/cmake-build-debug/CMakeFiles/Projekt_cpp.dir
