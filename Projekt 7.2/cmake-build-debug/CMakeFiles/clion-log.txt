@@ -1,0 +1,5 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/Users/mcwilan/Library/Mobile Documents/com~apple~CloudDocs/pro3/Projekt cpp"
+-- Found SFML 2.5.1 in /opt/homebrew/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/mcwilan/Library/Mobile Documents/com~apple~CloudDocs/pro3/Projekt cpp/cmake-build-debug
